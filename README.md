@@ -33,4 +33,6 @@ Chain of Responsibility: Enables an object to transmit a request through a serie
 
 Command: Encapsulates a request as an object, allowing clients to be parameterized with queues, requests, and operations.
 
+Mediator: centralizes complex communications and control logic between related objects. Instead of having objects refer to and communicate directly with each other, they interact through a mediator, which reduces dependencies and simplifies maintenance.
+
 Each pattern example in this repository is accompanied by comprehensive explanations and Java code snippets illustrating its implementation. You're encouraged to explore and utilize these examples to enrich your comprehension and implementation of design patterns in Java projects.
